@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75a931d8-2e8f-45c5-bb76-3638f64faeeb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pixisprites.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pixisprites.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pixisprites.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/pixisprites.ts" afterDir="false" />
     </list>
@@ -27,20 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pixisprites.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pixisprites.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pixisprites.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="102" column="5" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+            <state relative-caret-position="272">
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pixisprites.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pixisprites.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pixisprites.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            <state relative-caret-position="289">
+              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -86,8 +85,8 @@
         <option value="$PROJECT_DIR$/src/Interface.ts" />
         <option value="$PROJECT_DIR$/src/pixisprites1.ts" />
         <option value="$PROJECT_DIR$/src/index.html" />
-        <option value="$PROJECT_DIR$/src/pixisprites.ts" />
         <option value="$PROJECT_DIR$/src/pixisprites.js" />
+        <option value="$PROJECT_DIR$/src/pixisprites.ts" />
       </list>
     </option>
   </component>
@@ -221,12 +220,12 @@
       <updated>1532067975495</updated>
       <workItem from="1532067977135" duration="11000000" />
       <workItem from="1532079777302" duration="1723000" />
-      <workItem from="1532153363701" duration="21602000" />
+      <workItem from="1532153363701" duration="22137000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34325000" />
+    <option name="totallyTimeSpent" value="34860000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -371,6 +370,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pixisprites.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -380,15 +386,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pixisprites.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="102" column="5" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pixisprites.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        <state relative-caret-position="272">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
         </state>
       </provider>
     </entry>

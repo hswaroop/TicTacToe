@@ -14,7 +14,7 @@
     Rectangle = PIXI.Rectangle;
 
     let app = new Application({
-        width: window.innerWidth / 2,
+        width: window.innerWidth/2,
         height: window.innerHeight - 50,
         antialias: true,
         transparent: false,
@@ -34,19 +34,11 @@
 
         class Images {
             constructor() {
-                this.addTitle();
                 this.addGrid();
+                this.addTitle();
                 this.addPlayerSymbols();
                 this.addTurn();
                 this.addRestart();
-            }
-
-            addTitle() {
-                this.TicTacToe = new Sprite(id["TicTacToe.png"]);
-                app.stage.addChild(this.TicTacToe);
-                this.TicTacToe.width = app.renderer.width / 3;
-                this.TicTacToe.height = app.renderer.height / 3;
-                this.TicTacToe.x = this.grid.x;
             }
 
             addGrid() {
@@ -56,6 +48,14 @@
                 this.grid.height = app.renderer.height / 2;
                 this.grid.x = app.renderer.width / 2 - this.grid.width / 2;
                 this.grid.y = app.renderer.height / 2 - this.grid.height / 2;
+            }
+            
+            addTitle() {
+                this.TicTacToe = new Sprite(id["TicTacToe.png"]);
+                app.stage.addChild(this.TicTacToe);
+                this.TicTacToe.width = app.renderer.width / 3;
+                this.TicTacToe.height = app.renderer.height / 3;
+                this.TicTacToe.x = this.grid.x;
             }
 
             addPlayerSymbols() {
